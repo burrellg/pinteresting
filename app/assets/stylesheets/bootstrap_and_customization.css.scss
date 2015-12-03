@@ -1,8 +1,5 @@
 $body-bg: red;
-$navbar-inverse-bg: white;
-$navbar-inverse-link-color: white;
-$brand-primary: #f39c12;
-$jumbotron-bg: #bdc3c7;
 
+
+@import "bootstrap-sprockets";
 @import 'bootstrap';
-@import 'bootstrap-sprockets';
