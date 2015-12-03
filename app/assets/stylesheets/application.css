@@ -12,4 +12,14 @@
  *
  *= require_tree .
  *= require_self
+ *= require bootstrap.min
  */
+
+$body-bg: red;
+$navbar-inverse-bg: white;
+$navbar-inverse-link-color: white;
+$brand-primary: #f39c12;
+$jumbotron-bg: #bdc3c7;
+
+@import 'bootstrap';
+@import 'bootstrap-sprockets';
